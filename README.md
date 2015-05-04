@@ -10,6 +10,8 @@ For example:
 {'a': [{'b': [(1, 2, ['\xc3\x96sterreich'])]}]}
 ```
 
+Note: dictionaries are copied, lists and tuples are changed *inplace*.
+
 # Usage
 ```python
 
