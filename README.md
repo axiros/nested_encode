@@ -12,6 +12,8 @@ For example:
 
 Note: dictionaries are copied, lists and tuples are changed *inplace*.
 
+Performance overhead: around 10%.
+
 # Usage
 ```python
 
