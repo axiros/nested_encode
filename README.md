@@ -22,6 +22,6 @@ def loads(data):
 ```
 
 # Install
-```
-pip install pip install git+https://github.com/axiros/nested_encode.git
+```bash
+pip install git+https://github.com/axiros/nested_encode.git
 ```
