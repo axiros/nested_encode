@@ -11,7 +11,7 @@ mod = Extension(
 
 setup(
     name='nested_encode',
-    version='0.3',
+    version='0.1',
     description="Convert unicode objects, in a nested structure, into uft-8 encoded bytes",
     author='Stephan Hofmockel',
     author_email="Use the github issues",
